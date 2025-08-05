@@ -89,3 +89,7 @@ span~p{
     vertical-align: top;
 }
 
+h1:hover{
+    color: #F4D04E;
+    cursor: pointer;
+}
